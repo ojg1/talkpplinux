@@ -9,7 +9,7 @@ echo "$rp" > .build_count
 
 cd /home/eric/Projects/talk++linux
 
-version = "0.1-alpha"
+version="0.1-alpha"
 
 git add .
 git commit -m "build $version $rp"

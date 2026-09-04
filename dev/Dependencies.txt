@@ -1,0 +1,5 @@
+you are working on talk++linux 
+
+dependencies:
+fltk compatible linux
+and whatevers in the included
